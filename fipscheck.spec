@@ -6,7 +6,7 @@ License:	BSD
 Group:		System Environment/Libraries
 # This is a Red Hat maintained package which is specific to
 # our distribution.
-URL:		http://fedorahosted.org/fipscheck/
+URL:		https://fedorahosted.org/fipscheck/
 Source0:	http://fedorahosted.org/releases/f/i/%{name}/%{name}-%{version}.tar.bz2
 
 BuildRoot:	%(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
